@@ -17,7 +17,8 @@
 |  numpy  |  1.19.2  |  矩阵库  |
 |  opencv-Python  |  4.4.0.44  |  读取图片  |   
 # 数据集
-[从Kaggle下载](https://www.kaggle.com/c/jiangnan2020/data)  
+[从网盘下载（参考Issues #1）](https://github.com/0Kirby/GenderRecognition/issues/1)  
+~~[从Kaggle下载](https://www.kaggle.com/c/jiangnan2020/data)~~（比赛现已截止，无法报名，未报名者无法下载）  
 然后把下载到的所有文件放在**根目录**
 # 文件说明
 GenderRecognition.ipynb - 包含运行结果的交互式Jupyter Notebook  
@@ -27,4 +28,3 @@ train.csv - 已对其中错误的标签进行修改
 submission.csv - 输出的预测结果  
 trial.txt - 使用最佳模型预测训练集，对训练集所做的修改  
 Jupyter Notebook Preview.html/Jupyter Notebook Preview.pdf - 运行结果，内容同GenderRecognition.ipynb
-
